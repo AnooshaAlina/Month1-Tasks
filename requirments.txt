@@ -1,0 +1,17 @@
+## 💻 Requirements
+pandas
+matplotlib
+seaborn
+scikit-learn
+textblob
+wordcloud
+nltk
+
+cpp
+Copy
+Edit
+
+Install using:
+
+```bash
+pip install -r requirements.txt
